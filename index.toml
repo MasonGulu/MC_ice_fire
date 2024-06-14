@@ -31,6 +31,11 @@ hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "1ae87327a1b14b858635768fd5b5b70444427af8c035b5d1f5231721f488b442"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "59dcbc3a47f407858e52dbd02948e258ccc38ced0a78451bab9fbb6eb0b3e9be"
 metafile = true
@@ -121,6 +126,11 @@ hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "69dd03aa24b8172ed8644a73dd477521afd7ca6841b77320f0d13534968aad3a"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d39378120749030abb4008e154cced5309f1c52cf7e00bfc6127d03ce1dc8f76"
 metafile = true
@@ -146,8 +156,8 @@ hash = "e4b5b954332718c875877bba25a1aced57deccab885f348d53649c25bf13615f"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "4e7359568382843485cb04c9efffe03d9abf3cb287a8bc067e498429c72fba19"
+file = "mods/estrogen.pw.toml"
+hash = "51222582d954fb77194c9610d31e85f3068e41eec44a15a0f75137bfff8f5fde"
 metafile = true
 
 [[files]]
@@ -253,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "63ca101d88fe4780c0ca6c5091d92d15fe678b89e7859b179b7dab2829222921"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c554748f4958ae814eb09a8eb201fb19cd605cc91088d96385257bf6c883895d"
 metafile = true
 
 [[files]]

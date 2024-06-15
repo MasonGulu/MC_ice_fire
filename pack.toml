@@ -1,12 +1,12 @@
 name = "The Return of Financial Irresponsibility"
 author = "Mason"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ddaceed6ad9e4b85ce6eeb8130ef1d8e21d2387e010322d190b3f07cfd53e032"
+hash = "94c9eee7f772d92f7203d936fb258298d745c7990dde52f7c09c6608230bd0e9"
 
 [versions]
 minecraft = "1.20.1"

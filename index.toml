@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/logbegone.toml"
-hash = "308e8e35ccf1c24f33e41a6fb6cd00806cf08b46cfe04d53d1e6f4d239dbabaf"
+hash = "3e611a8b1869a4da79f6568ce49e82525c5e7c5b93b08259200d334ad8d1590d"
 
 [[files]]
 file = "config/mca.json"

@@ -1,5 +1,5 @@
 
 [logbegone]
-	regex = ["Disconnecting VANILLA connection attempt", "Channels ", "has a mass of 0.0"]
-	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "has a mass of 0.0"]
+	regex = ["Disconnecting VANILLA connection attempt", "Channels ", "has a mass of 0.0", "Too many physics frames"]
+	phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "has a mass of 0.0", "Too many physics frames"]
 

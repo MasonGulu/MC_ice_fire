@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/logbegone.toml"
+hash = "308e8e35ccf1c24f33e41a6fb6cd00806cf08b46cfe04d53d1e6f4d239dbabaf"
+
+[[files]]
+file = "config/mca.json"
+hash = "1fb2a5a39859e15d74f72f29a4a0db2be7eef31b6a62da101b1b0c4076b5fcf5"
+
+[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "e83626b57fa2cba1199067ca67dbe4c136212d20468cdbb35b16ed9319a2da55"
 metafile = true

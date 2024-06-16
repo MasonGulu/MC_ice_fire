@@ -189,6 +189,11 @@ hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
 
 [[files]]
+file = "mods/flan.pw.toml"
+hash = "78f886bc5c648f6a4091caa8c7ebdb0d6302c4633c33db65713a788ba99eb788"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "3cf269299bc29be0e27b3ad11e50cdfa65944778d34d8ac5f191ffcf14e8f75f"
 metafile = true
@@ -296,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "17f4bc48258807afb483273d3d0abee5a42e2bc0848bdfd35b76250eeb49184c"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
 metafile = true
 
 [[files]]

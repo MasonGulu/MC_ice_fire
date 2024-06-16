@@ -1,0 +1,13 @@
+name = "Flan"
+filename = "flan-1.20.1-1.10.4-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Si383TIH/versions/GqlmBoUl/flan-1.20.1-1.10.4-forge.jar"
+hash-format = "sha1"
+hash = "a2c5bb5c847bf047789286faa31dc5a55dab2ba0"
+
+[update]
+[update.modrinth]
+mod-id = "Si383TIH"
+version = "GqlmBoUl"

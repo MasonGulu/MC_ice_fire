@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create_connected-common.toml"
+hash = "2eb052176d662be696b32dfcfe46a75cd3c10f5ad83bd232f000ba6659cd0d35"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "8f0128ef679feecbbd30c521e994d8bebebccf651cad7e135bff80e759b114eb"
+
+[[files]]
 file = "config/logbegone.toml"
 hash = "3e611a8b1869a4da79f6568ce49e82525c5e7c5b93b08259200d334ad8d1590d"
 
 [[files]]
 file = "config/mca.json"
-hash = "1fb2a5a39859e15d74f72f29a4a0db2be7eef31b6a62da101b1b0c4076b5fcf5"
+hash = "648d1766188c25b3c9d4519b6b00e7dae4c38ab04b30a254f3eaea62d60aa433"
+
+[[files]]
+file = "config/valkryienskies/vs_core_server.json"
+hash = "bccc0a73887cd86cdb7772950bca2c55eb4445562c0c6ed4ea302941590e2cc5"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -166,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "51222582d954fb77194c9610d31e85f3068e41eec44a15a0f75137bfff8f5fde"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "5eb5a1b0ce99c73188ebfd5d45d2c563fe745556ad18d7e1dc745a70afd55e1b"
 metafile = true
 
 [[files]]

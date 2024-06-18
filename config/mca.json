@@ -226,6 +226,9 @@
     "TOUGH": true
   },
   "taxesMap": {
-    "minecraft:emerald": 1.0
+    "numismatics:bevel": 1.0,
+    "numismatics:sprocket": 0.4,
+    "numismatics:cog": 0.1,
+    "iceandfire:weezer_blue_album": 0.01
   }
 }

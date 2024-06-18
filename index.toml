@@ -14,7 +14,7 @@ hash = "3e611a8b1869a4da79f6568ce49e82525c5e7c5b93b08259200d334ad8d1590d"
 
 [[files]]
 file = "config/mca.json"
-hash = "648d1766188c25b3c9d4519b6b00e7dae4c38ab04b30a254f3eaea62d60aa433"
+hash = "7a282bdf16a83b284827a63cde2119008bba0b0d755daf5b92b245f4741a134a"
 
 [[files]]
 file = "config/valkryienskies/vs_core_server.json"
@@ -63,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/cc-vs.pw.toml"
 hash = "a119c6e5a47fab7af4aabfb2248fbf2bf22a53548ab21f24335333ac385c641f"
+metafile = true
+
+[[files]]
+file = "mods/chalk-mod.pw.toml"
+hash = "98efea80bf5c0169b2566c3b76bec9afa4a349253ed87c0287b345c8f11b15a3"
 metafile = true
 
 [[files]]
@@ -158,6 +163,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ea554e142fc660c972ca8018ba9b79a3a97a84175febf0504f9ffaf8e8334538"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "33b44f9dd0b1fef2c70b7dfa2579762051df57b13c78535be927a40dd4cf98a6"
 metafile = true
 
 [[files]]
@@ -334,6 +344,10 @@ metafile = true
 file = "mods/valkyrien-skies.pw.toml"
 hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
 metafile = true
+
+[[files]]
+file = "mods/vs-addition.toml"
+hash = "6d6c731be0aefb6d43b63dcdf7806ff465ab9f7581cf15041df84bf41349bbe0"
 
 [[files]]
 file = "mods/vs-tournament.pw.toml"

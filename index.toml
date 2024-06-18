@@ -271,11 +271,6 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "89e03d1fea6d283c9d127ca0555c7124e5b84d05555575ff164a92c6e2511124"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "b43d12580112278e3dd4f871c9b38a316b7c5fd81752b24de4e39accde960ca3"
 metafile = true
@@ -348,6 +343,7 @@ metafile = true
 [[files]]
 file = "mods/vs-addition.toml"
 hash = "6d6c731be0aefb6d43b63dcdf7806ff465ab9f7581cf15041df84bf41349bbe0"
+metafile = true
 
 [[files]]
 file = "mods/vs-tournament.pw.toml"

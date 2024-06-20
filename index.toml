@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "f65266cb549dfdbd4e72288d5c80be2090a288c0986800fcabc0de1702d634c4"
+hash = "e3675974e82fcae3aa0c612c5a7709739e6c83710ee4d0ccef890afcecc40c87"
 metafile = true
 
 [[files]]
@@ -158,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d39378120749030abb4008e154cced5309f1c52cf7e00bfc6127d03ce1dc8f76"
+metafile = true
+
+[[files]]
+file = "mods/do-api.pw.toml"
+hash = "b9ef62d3c1641e8b7e9880152bb172056d49c58a1613e6c909e6a2f9d741a814"
 metafile = true
 
 [[files]]
@@ -191,6 +196,11 @@ hash = "51222582d954fb77194c9610d31e85f3068e41eec44a15a0f75137bfff8f5fde"
 metafile = true
 
 [[files]]
+file = "mods/exposure-catalog.pw.toml"
+hash = "a7e50ce2fbac447bcb2c816b437c94cdb9a39385fd7670ada0460122f694004e"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "5eb5a1b0ce99c73188ebfd5d45d2c563fe745556ad18d7e1dc745a70afd55e1b"
 metafile = true
@@ -218,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/flan.pw.toml"
 hash = "78f886bc5c648f6a4091caa8c7ebdb0d6302c4633c33db65713a788ba99eb788"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "79c87d98634080c3f9ebd732b731a95f795ec6478cf024f80580c9edf7317665"
 metafile = true
 
 [[files]]
@@ -261,8 +276,18 @@ hash = "dd308454a6708e915735523e3ccbf6be4893ff9c7ca737d2f9ccf745fffd6835"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "22c0b466b4fe34a416a1941936e9e9a7d9f3167d63ae1998e8a2772bf08d9fe2"
+metafile = true
+
+[[files]]
 file = "mods/log-begone.pw.toml"
 hash = "a1f7012aba7ff27b63433bcef8b7027a62ae33998a442a42e6c44ae5bbb7eebe"
+metafile = true
+
+[[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "238e620eae04c0d0a9a88c46c96fa9aa773b11697231f7c81a503eb945b20755"
 metafile = true
 
 [[files]]
@@ -318,6 +343,21 @@ metafile = true
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "a6fa210db6d27f784814e6f9c559a6aab70e1b5d225d45ce743d9062b50d6f19"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3f6894af067410277d2281acd6a674575694eb65e4e3514e4d96e32b06e4e0e2"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "ab9393f8ffa86006454b2eef2d0276630baacb9644f48ee04c7e1abc5090f2d0"
 metafile = true
 
 [[files]]

@@ -51,8 +51,18 @@ hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
+file = "mods/blockui.pw.toml"
+hash = "858d148713ff16c7a8f554b2b8e100fb04257da00c44757646a0dc0c8b3ae32f"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "1ae87327a1b14b858635768fd5b5b70444427af8c035b5d1f5231721f488b442"
+metafile = true
+
+[[files]]
+file = "mods/byzantine-style-pack-for-minecolonies.pw.toml"
+hash = "f37e032c81f60953138f20a2228b626614b6370e8a48c347de90e56fa4f012d1"
 metafile = true
 
 [[files]]
@@ -163,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "b9ef62d3c1641e8b7e9880152bb172056d49c58a1613e6c909e6a2f9d741a814"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "127755a295858228bdbc4e696c06adf201eee057e8ed67e785c9180af139d557"
 metafile = true
 
 [[files]]
@@ -296,6 +311,11 @@ hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "0e0a51b659665c2a08133e2faa163f783eabb4c983990b18edc7cdb2d933c1ba"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "b43d12580112278e3dd4f871c9b38a316b7c5fd81752b24de4e39accde960ca3"
 metafile = true
@@ -303,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "c915727f347498b8037b0a44bbcb896cd03008352fedab4b787016d9dd49caaf"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
 metafile = true
 
 [[files]]
@@ -371,8 +396,18 @@ hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
 metafile = true
 
 [[files]]
+file = "mods/structurize.pw.toml"
+hash = "31271eeeaf61f75b0bdf44b56c355453babdc0a60666ccdaf176d6b5117e1508"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
 metafile = true
 
 [[files]]

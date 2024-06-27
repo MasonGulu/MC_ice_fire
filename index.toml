@@ -26,6 +26,11 @@ hash = "e83626b57fa2cba1199067ca67dbe4c136212d20468cdbb35b16ed9319a2da55"
 metafile = true
 
 [[files]]
+file = "mods/alexs-delight.pw.toml"
+hash = "99f6d4e46f784953d16aa1ce5f72327b21487dc0e27d3143c8a6b60c6d02381a"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "c7ef8f8629620ae3d9d2da71aaf440624c40157a80c0eda4298c0aa60b7c76c0"
 metafile = true
@@ -231,6 +236,11 @@ hash = "5eb5a1b0ce99c73188ebfd5d45d2c563fe745556ad18d7e1dc745a70afd55e1b"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
 metafile = true
@@ -376,6 +386,11 @@ hash = "c554748f4958ae814eb09a8eb201fb19cd605cc91088d96385257bf6c883895d"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
+metafile = true
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "a6fa210db6d27f784814e6f9c559a6aab70e1b5d225d45ce743d9062b50d6f19"
 metafile = true
@@ -423,6 +438,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
+metafile = true
+
+[[files]]
+file = "mods/vintage-delight.pw.toml"
+hash = "017c584a6d2eec130e1157a268f0b6d1a50e72955032b5f2b49e0534e0a35d04"
 metafile = true
 
 [[files]]

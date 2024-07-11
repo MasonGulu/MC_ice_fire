@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "15f70ccb7c7b0ff27ec791788d24de00fc6f6715311644b0fe374f006c9f230e"
+hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
 
 [[files]]
@@ -151,6 +151,11 @@ hash = "3bed75508705781f0df8794e1715d23417f839ef011d5d1aab3708e4fc9192e9"
 metafile = true
 
 [[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "ce654994a5727a74079acb115e48e944754218dca3f441a3315cd8d1b9f7fd9b"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "fd6158a6c5bd89eb4bb84d6b231f64b59d2692518cea43fa25fe41913c2e63b9"
 metafile = true
@@ -162,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
 
 [[files]]

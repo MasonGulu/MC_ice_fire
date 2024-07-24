@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/apothic-attributes.pw.toml"
-hash = "267776d150b92091ac03ea3212991954fc6c463bc2f714fd39b6f938a11a52d6"
+hash = "ad85f1847b402498fdad38731c632ca0167ccbdade0c1884776aa5ee88463f28"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/byzantine-style-pack-for-minecolonies.pw.toml"
-hash = "f37e032c81f60953138f20a2228b626614b6370e8a48c347de90e56fa4f012d1"
+hash = "2b8f5f0345c27d3c7242a49978fb14013b6538a55a224a83de8d499c060b9543"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "e06b4f6a4a5fa7982439f57ca5015b616c606789d9deef0ddb78838b85306fed"
+hash = "b344591cc2489cb65880f43e38362c2d3719e630e39ce9553ea12beb3d901034"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "695eeee04c63d617d35d68f60484fcee025cb8297edc7186bf3105fd51342d4a"
+hash = "4aa0941bb8d59da53d3791e5e83284097c2b73a78090b9efd3abda4b989eed15"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-tfmg.pw.toml"
-hash = "51d507cd7232ab89c5848c55f90b9e9e164e4e182f7c6bc6a9bacd4fa7117da7"
+hash = "6d54b9a57853c947f1246edbfb504aa780df7b9199d0b959751fbfcc26e23bc8"
 metafile = true
 
 [[files]]
@@ -197,12 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "518f74ded0b3d8c381b27219664095b14bd53a4db0be2e25b637bbf8f445d3dd"
+hash = "ac9e325de2ca1030bdf19789f676285ae573feb839ecb518cc7bc9f0b82d68e2"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c776f0ed35a022b22ce56da6d0efa195a9a5b70e93ddcc004daaaebc8afc468d"
+hash = "a79c8ce3ee589780734294641b04f50720432ca623860b627c0f3434fd1aa7f2"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "e5a2825f8de2b1b4f9e6aee34417b6c1ae2fcf826a6033c3b542d35091e70b41"
+hash = "d5dbd5e742871cbe5217ea21879a29b96a82895438e7406beedd0f71137b5838"
 metafile = true
 
 [[files]]
@@ -227,17 +227,17 @@ metafile = true
 
 [[files]]
 file = "mods/estrogen.pw.toml"
-hash = "38f64da75d4e45ac684fbe55610dd6891b69a6ac814c9df483a75160d3b42b47"
+hash = "10a50f135714044601b13d1d00ef979320e2b5672964eaf300f555ea9259a787"
 metafile = true
 
 [[files]]
 file = "mods/exposure-catalog.pw.toml"
-hash = "a7e50ce2fbac447bcb2c816b437c94cdb9a39385fd7670ada0460122f694004e"
+hash = "d5a43598338d407efdb3c72e38892fb1e2078d670ef9a6ea9f5d54faebf95d00"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "78cfa9405d60901a63672bae412adf5599ca2c1cc0d05e910eedd77f48ab3860"
+hash = "bb06cf0e088f00ad3e167ea5775afd7aa6eeda491b0271575a80289bc6d6c5a6"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4338e846eb44201c4eb202ebe7607a0b80dbec4728ebf07f9c0934350d63bf47"
+hash = "879b14f85a38c94f69ab8df307d519d05bc9b7bd57b8e65095fff8ffc4668325"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-and-artifice.pw.toml"
-hash = "15bdcc694ff9edf7882fbd507e24fb48565d8baf36f2e7909e25a7569207188d"
+hash = "9b26aef9bca26cc8ae004539eb52ba1af0fd211e14f347b4d781970479f1002f"
 metafile = true
 
 [[files]]
@@ -337,12 +337,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "386b87e727133a4c9eeed36af36b839d4fd0c761fd180695e863aaaaf0a4d926"
+hash = "81ca24438b9a4b80204182ef72f38997a3e946884c26e225c8e18fe30cc71d85"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "e88145f3055f2b7eef4570475680b242a32e0ca52b542b4119eca7a0f80ba33e"
+hash = "3b4e1e786ad25484232110da3c367190cac0cf47f9d584313906adc039a6fa67"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
+hash = "e1caca0263b55a7d569ffa3db7c760001c489ac8710808e6b55a05400536455b"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "17f4bc48258807afb483273d3d0abee5a42e2bc0848bdfd35b76250eeb49184c"
+hash = "0c17b4714edb6e99d5948606746279e8722db836b91ce4fe9e28b46374d68ce8"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/vs-addition.toml"
-hash = "29a88b58e3a39f9ea29b0976c79fcf888da882056ac39b44b975b4f226b0fd38"
+hash = "1fb741fcc53611d4d9907edb0d2cc38ae60fc31752f3d9d399585aef8ac69bc9"
 metafile = true
 
 [[files]]

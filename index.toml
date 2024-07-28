@@ -441,6 +441,11 @@ hash = "32e0f6bce7adc5b09ba3350110ac4be7ee04e556db35ba1db97bacfabd31e4dc"
 metafile = true
 
 [[files]]
+file = "mods/trackwork.pw.toml"
+hash = "8deda3bd6e624e01a1d31187855e5c8bc5a8f1852a35a7ddf18c903921344d65"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
 metafile = true

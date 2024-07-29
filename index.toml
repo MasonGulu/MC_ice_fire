@@ -166,6 +166,11 @@ hash = "fd6158a6c5bd89eb4bb84d6b231f64b59d2692518cea43fa25fe41913c2e63b9"
 metafile = true
 
 [[files]]
+file = "mods/create-tab-fix.pw.toml"
+hash = "8c1930aaa56e2de49d13d1329c07a1e74735980765dc416e004b5b4ba07d84f2"
+metafile = true
+
+[[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "6d54b9a57853c947f1246edbfb504aa780df7b9199d0b959751fbfcc26e23bc8"
 metafile = true
@@ -217,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/effortless-building.pw.toml"
-hash = "90949d3032e45e834dc8b2b3c01a40c73d22c9eb827835aa0b831b625a2c5a3c"
+hash = "3fbd7f418128cb2138f981f9ac13b70547cb0b87010d492becdec929dd98562f"
 metafile = true
 
 [[files]]

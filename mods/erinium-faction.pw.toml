@@ -1,0 +1,13 @@
+name = "Erinium Faction"
+filename = "erinium_faction-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "814a7cbe74370bb563ebdf03df94681567b056eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5258412
+project-id = 984883

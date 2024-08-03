@@ -236,6 +236,11 @@ hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
 metafile = true
 
 [[files]]
+file = "mods/erinium-faction.pw.toml"
+hash = "2457a5f49e195928d3eb4b1602e5bcbca8e976cd3f09248b7114ec898e75bea6"
+metafile = true
+
+[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "10a50f135714044601b13d1d00ef979320e2b5672964eaf300f555ea9259a787"
 metafile = true

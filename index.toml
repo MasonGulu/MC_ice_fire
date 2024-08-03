@@ -67,12 +67,12 @@ metafile = true
 
 [[files]]
 file = "mods/byzantine-style-pack-for-minecolonies.pw.toml"
-hash = "48513506619ceb88d4b290ca701bd8d1029aacdf6b4469071fb3832c8925346d"
+hash = "2b8f5f0345c27d3c7242a49978fb14013b6538a55a224a83de8d499c060b9543"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "2500e18f940ff2f696b8ee26356ef941463458145683431995bc8dedc388481b"
+hash = "59dcbc3a47f407858e52dbd02948e258ccc38ced0a78451bab9fbb6eb0b3e9be"
 metafile = true
 
 [[files]]
@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "9cf06c1f888201b8ec5150cd083ef9c08404dfed8f806ed59c3734e10607a2e3"
+hash = "4aa0941bb8d59da53d3791e5e83284097c2b73a78090b9efd3abda4b989eed15"
 metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "9b4526ab8bfdd3bf813b788a382b849c31fde9a510668c80761ba8897952af2c"
+hash = "c6d60d0468773af6b5c39a68a3e9384367fafad9ce6ca13f3495d0f9735649a4"
 metafile = true
 
 [[files]]
@@ -148,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/create-molten-metals.pw.toml"
 hash = "3bed75508705781f0df8794e1715d23417f839ef011d5d1aab3708e4fc9192e9"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "ce654994a5727a74079acb115e48e944754218dca3f441a3315cd8d1b9f7fd9b"
 metafile = true
 
 [[files]]
@@ -207,12 +212,12 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "f677eb3ed3c16dcb9ac336eef6a08e89b1e73a4dd93972f412b250c77e1195cf"
+hash = "ac9e325de2ca1030bdf19789f676285ae573feb839ecb518cc7bc9f0b82d68e2"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "466ed6d633d198890564ddc23ddfa95159c0bcade660a0a7a9299dee7af8cd16"
+hash = "a79c8ce3ee589780734294641b04f50720432ca623860b627c0f3434fd1aa7f2"
 metafile = true
 
 [[files]]
@@ -222,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "e5755503a6eabcdca52ad30c9badadf8427c51115a4d6c84defb7661f0a479cb"
+hash = "d5dbd5e742871cbe5217ea21879a29b96a82895438e7406beedd0f71137b5838"
 metafile = true
 
 [[files]]
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "d877ca523e0bec775d5efac0116883cc58302d1a1b25414a208688f36d76cae7"
+hash = "bb06cf0e088f00ad3e167ea5775afd7aa6eeda491b0271575a80289bc6d6c5a6"
 metafile = true
 
 [[files]]
@@ -307,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0ddae708f91ebbeb5fa3b46e024252de324f503fc806d9481bcdc92dd77f5276"
+hash = "879b14f85a38c94f69ab8df307d519d05bc9b7bd57b8e65095fff8ffc4668325"
 metafile = true
 
 [[files]]
@@ -337,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/mana-and-artifice.pw.toml"
-hash = "3dede8d8dc9513b16ea0effc7082cb21fe0cff6f5db65f8b549b5d0cedb26e89"
+hash = "9b26aef9bca26cc8ae004539eb52ba1af0fd211e14f347b4d781970479f1002f"
 metafile = true
 
 [[files]]
@@ -347,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "2830485daf462d4d2414c38d8c3066b285f8f525bdddd76b852c7be174e7bc49"
+hash = "81ca24438b9a4b80204182ef72f38997a3e946884c26e225c8e18fe30cc71d85"
 metafile = true
 
 [[files]]
@@ -397,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "4343bc764af8bce2ba13bc8cedd3b00c7e75b97b6cb47c6055fa0d4071e2bafc"
+hash = "c554748f4958ae814eb09a8eb201fb19cd605cc91088d96385257bf6c883895d"
 metafile = true
 
 [[files]]
@@ -432,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-drawers.pw.toml"
-hash = "b23614f126b6ad58ccc18d45c547d2e7357da867ff1a45f63e3dcb246f3a87f4"
+hash = "ce92a2870c50085508caf9b680efffdfdd50b54e240e7bf047b6833c66ac139e"
 metafile = true
 
 [[files]]
@@ -467,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/vs-addition.toml"
-hash = "5b21cbd1121c6ddcaa5f318fe42fa82854e44ec67e4d55ef7b4ab47e361fa124"
+hash = "1fb741fcc53611d4d9907edb0d2cc38ae60fc31752f3d9d399585aef8ac69bc9"
 metafile = true
 
 [[files]]

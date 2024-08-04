@@ -151,11 +151,6 @@ hash = "3bed75508705781f0df8794e1715d23417f839ef011d5d1aab3708e4fc9192e9"
 metafile = true
 
 [[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "ce654994a5727a74079acb115e48e944754218dca3f441a3315cd8d1b9f7fd9b"
-metafile = true
-
-[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "7641de036f97e5ffa27fb065ed439f5b0b6df11d3091db9b54628c185dc86927"
 metafile = true

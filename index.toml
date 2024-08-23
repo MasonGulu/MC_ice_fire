@@ -61,6 +61,11 @@ hash = "858d148713ff16c7a8f554b2b8e100fb04257da00c44757646a0dc0c8b3ae32f"
 metafile = true
 
 [[files]]
+file = "mods/botania.pw.toml"
+hash = "ea110e16f81749a58d3fee27b04c0d5426754e26c578057c272d35b07f270d42"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
@@ -338,11 +343,6 @@ metafile = true
 [[files]]
 file = "mods/log-begone.pw.toml"
 hash = "a1f7012aba7ff27b63433bcef8b7027a62ae33998a442a42e6c44ae5bbb7eebe"
-metafile = true
-
-[[files]]
-file = "mods/mana-and-artifice.pw.toml"
-hash = "9b26aef9bca26cc8ae004539eb52ba1af0fd211e14f347b4d781970479f1002f"
 metafile = true
 
 [[files]]

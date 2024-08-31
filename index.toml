@@ -81,11 +81,6 @@ hash = "6bda60bbc4bbf9b615db6ae54cba617af10d2bd4fd5ae32a3ee72137a592999e"
 metafile = true
 
 [[files]]
-file = "mods/cc-vs.pw.toml"
-hash = "a119c6e5a47fab7af4aabfb2248fbf2bf22a53548ab21f24335333ac385c641f"
-metafile = true
-
-[[files]]
 file = "mods/chalk-mod.pw.toml"
 hash = "98efea80bf5c0169b2566c3b76bec9afa4a349253ed87c0287b345c8f11b15a3"
 metafile = true
@@ -317,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "00bb2ba78fef5978729dec8c6dc18a89eff69eb5cbc8066fe179ef25bce9be8c"
+hash = "cf594632550b1d4edb22b1d181c2339b7e3effc61086382918d1c49331a4cf00"
 metafile = true
 
 [[files]]

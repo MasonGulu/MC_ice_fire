@@ -1,13 +1,13 @@
 name = "VS Addition"
-filename = "vs_addition-1.20.1-forge-0.0.6e+93b9fab0d6.jar"
+filename = "vs_addition-1.20.1-0.0.10+2fafdfabbc.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ee43a621e9ac313440f768226a7be7d95361c16e"
+hash = "7ac3852618ee26e1057c2639c03a4f43db1934d8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5679777
+file-id = 5956736
 project-id = 1027757

@@ -36,6 +36,11 @@ hash = "c107c014f7703badbf59958405f64b888a1b5a56e21d8092e204c851032c3a6e"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "02acb1c526bd9be618d1190290653d021d04f03fb26b7e28555117d176ca0541"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "4fc425234d70f254e2b420d7c01d33c4c1666366c64909114c943a1b15e436d0"
 metafile = true
@@ -103,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "8165f9f7f66ffe4fa7b92ef8f8564cd10f93ec2cf07d6931c442cf91333a1ca3"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "a71da6b2e8a7654cdc2936e0ac684fbcbed513eb07b32f68f39497c27fe0de1d"
 metafile = true
 
 [[files]]
@@ -281,6 +291,11 @@ hash = "e199012ea06760d5d3cde2700e05eda19418455b0d749e1fad23bbf92aed11bc"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "3680d0ffb2ea1a0ac96c80c13b40bda399b3d364e375cd645bc13c64ead36d47"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "842114b0822d9c2b8b3f474afa55bb973687e8c779aa1cf83548d6ed49b348cd"
 metafile = true
@@ -288,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
-metafile = true
-
-[[files]]
-file = "mods/iceberg.pw.toml"
-hash = "d3ff93cfc3c3e3d2e805ababa25afb90cc46ff6bd90579e697bab3ff5f8e4d31"
 metafile = true
 
 [[files]]
@@ -316,18 +326,8 @@ hash = "c1873c8ad94d889470170d517f6c3a07d84140b6e2dc7610ab84aff400a3165b"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "290e39267f98ae5f3037b12d3a2cd04570f21710e38446188a75b6fc460ddb10"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
-metafile = true
-
-[[files]]
-file = "mods/legendary-tooltips.pw.toml"
-hash = "dd308454a6708e915735523e3ccbf6be4893ff9c7ca737d2f9ccf745fffd6835"
 metafile = true
 
 [[files]]
@@ -448,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "a342b76a9c9f6a0e4896ea4c1f16e856711a9d7cc20736f97a71acbc400b44f5"
+metafile = true
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "6aab4e9403dcd7aa534fcdb8837e62c5ba2b05aa2c4938aa5bd490427902c97a"
 metafile = true
 
 [[files]]
